@@ -12,6 +12,8 @@ RUN \
 	curl \
 	logrotate \
 	nano \
+	vim \
+	openssh \
 	openssh-server \
 	openssh-sftp-server \
 	sudo && \
